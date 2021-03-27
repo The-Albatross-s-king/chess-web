@@ -3,7 +3,7 @@
     <br>
 </h1>
 
-## Navadta Members:
+## Albatros Members:
 ##### - [Alan GUERET](https://github.com/alanretgue)
 ##### - [Theo DARONAT](https://github.com/Theo-DARONAT)
 ##### - [Félix LENA](https://github.com/felixlena)
